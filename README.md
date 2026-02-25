@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Manas Sharma
 
-<!--
-**ManasDevHub00/ManasDevHub00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student
+💻 Learning Data Structures & Algorithms in Java
+🤖 Interested in Artificial Intelligence & Machine Learning
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+* Data Structures & Algorithms (Java)
+* Python Programming
+* Machine Learning
+* AI Agent Development
+
+---
+
+## 🛠️ Skills
+
+* Java
+* Python
+* Jupyter Notebook
+* Git & GitHub
+* VS Code
+
+---
+
+## 📂 Projects
+
+### 💻 LeetCode Solutions (Java)
+
+* Solving DSA problems regularly
+* Arrays, Strings, Recursion, Sorting, Searching
+
+### 🤖 Machine Learning Journey
+
+* Data preprocessing
+* Model training & evaluation
+* Jupyter Notebook based ML experiments
+
+---
+
+## 📫 Contact
+
+Email: [manaschirawa09@gmail.com](mailto:manaschirawa09@gmail.com)
+
