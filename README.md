@@ -55,13 +55,7 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManasDevHub00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-</p>
+ 
 
 ---
 
