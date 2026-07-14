@@ -7,164 +7,125 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Manas+Sharma;Java+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Data+Structures+%26+Algorithms;AI+Agent+Developer;Always+Learning+Something+New+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Manas+Sharma;B.Tech+CSE+Student;Java+%2B+Python+Developer;AI+%2F+ML+Enthusiast;Data+Analysis+with+Pandas;DSA+Problem+Solver;Always+Learning+Something+New+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ManasDevHub00">
-    <img src="https://img.shields.io/github/followers/ManasDevHub00?label=Followers&style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/github/followers/ManasDevHub00?label=Followers&style=for-the-badge&logo=github&color=4F46E5"/>
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=ManasDevHub00&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
-  <img src="https://img.shields.io/github/stars/ManasDevHub00?affiliations=OWNER&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ManasDevHub00&label=Profile%20Views&style=for-the-badge&color=06B6D4"/>
+  <img src="https://img.shields.io/github/stars/ManasDevHub00?affiliations=OWNER&style=for-the-badge&color=14B8A6"/>
 </p>
-
----
-
-# 👨‍💻 About Me
-
-<img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-🎓 **B.Tech Computer Science Engineering Student**
-
-💻 Learning **Data Structures & Algorithms in Java**
-
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
-
-🌱 Currently exploring **AI Agents & NLP**
-
-🚀 Building projects and improving problem-solving every day
-
-📍 India 🇮🇳
-
----
-
-# 🚀 Current Focus
-
-- ☕ Java
-- 🐍 Python
-- 📚 Data Structures & Algorithms
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- ⚡ AI Agent Development
-
----
-
-# 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,jupyter,mysql,html,css,tensorflow"/>
-
+  <a href="mailto:manaschirawa09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Manas2306/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/manas1978">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🎓 **B.Tech Computer Science Engineering** student
+- 💻 Sharpening **Data Structures & Algorithms** in Java
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 📊 Doing hands-on **data analysis with Python & Pandas**
+- 🌱 Currently diving into **AI Agents & NLP**
+- 🚀 Building projects and improving problem-solving every day
+- 📍 India 🇮🇳
+
+<br clear="right"/>
+
+---
+
+## 🚀 Current Focus
+
+| Area | Details |
+|------|---------|
+| ☕ Java | Data Structures & Algorithms |
+| 🐍 Python | Data analysis, scripting |
+| 📊 Data Analysis | Pandas, exploratory data analysis (EDA) |
+| 🤖 Machine Learning | Data preprocessing, NLP, SVM, Random Forest |
+| ⚡ AI Agents | Learning agent-based AI development |
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-
- 
-<img height="170" src="https://streak-stats.demolab.com?user=ManasDevHub00&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,jupyter,mysql,html,css,tensorflow"/>
 </p>
-
- 
 
 ---
 
-# 📈 Contribution Graph
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasDevHub00&theme=tokyo-night&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManasDevHub00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ManasDevHub00&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 💻 LeetCode Statistics
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Manas2306?theme=dark&font=Karma&ext=contest,heatmap"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasDevHub00&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Coding Profiles
+## 💻 LeetCode Stats
 
 <p align="center">
-
-<a href="https://leetcode.com/u/Manas2306/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/manas1978">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ManasDevHub00">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <img src="https://leetcard.jacoblin.cool/Manas2306?theme=dark&font=Karma&ext=contest,heatmap"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-### 💻 Java & DSA
+### 📊 [Pandas Exploratory Data Analysis](https://github.com/ManasDevHub00)
+End-to-end EDA project in Jupyter Notebook, covering two real-world datasets:
+- **anime.csv** — anime rankings dataset
+- **Countries.csv** — global statistics spanning geography, economy, and demographics
 
-- Arrays
-- Strings
-- Binary Search
-- Recursion
-- Sorting
-- Searching
-- Dynamic Programming
+### ☕ Java & DSA Practice
+Consistent practice across core problem-solving topics:
+`Arrays` · `Strings` · `Binary Search` · `Recursion` · `Sorting` · `Searching` · `Dynamic Programming`
 
 ### 🤖 Machine Learning
-
-- Data Preprocessing
-- Natural Language Processing (NLP)
-- TF-IDF
-- Support Vector Machine (SVM)
-- Random Forest
-- Model Evaluation
+Applied ML fundamentals including:
+`Data Preprocessing` · `NLP` · `TF-IDF` · `SVM` · `Random Forest` · `Model Evaluation`
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-
-<a href="mailto:manaschirawa09@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ManasDevHub00">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/Manas2306/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.codechef.com/users/manas1978">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
+  <a href="mailto:manaschirawa09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ManasDevHub00">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/u/Manas2306/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://www.codechef.com/users/manas1978">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+  </a>
 </p>
-
----
 
 <p align="center">
 
 ### ⭐ Thanks for visiting my profile!
-
 ### 🚀 *Code • Learn • Build • Repeat*
 
 </p>
