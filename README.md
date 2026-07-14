@@ -1,4 +1,4 @@
-<!-- ========================================================= -->
+ <!-- ========================================================= -->
 <!--                    GITHUB PROFILE README                  -->
 <!-- ========================================================= -->
 
@@ -68,6 +68,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManasDevHub00&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -78,6 +86,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasDevHub00&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManasDevHub00/ManasDevHub00/output/github-contribution-grid-snake.svg"/>
+</p>
+
+> ⚙️ This one animates itself — a snake that "eats" your contribution graph. It needs a one-time GitHub Action setup (instructions below) so it stays live.
 
 ---
 
