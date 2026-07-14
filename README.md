@@ -89,15 +89,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ManasDevHub00/ManasDevHub00/output/github-contribution-grid-snake.svg"/>
-</p>
-
-> ⚙️ This one animates itself — a snake that "eats" your contribution graph. It needs a one-time GitHub Action setup (instructions below) so it stays live.
-
----
 
 ## 💻 LeetCode Stats
 
