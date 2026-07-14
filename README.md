@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Manas%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Manas+Sharma;Java+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Data+Structures+%26+Algorithms;AI+Agent+Developer;Always+Learning+🚀"/>
-</p>
+ 
 
 <p align="center">
 
