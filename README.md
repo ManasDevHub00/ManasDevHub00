@@ -102,8 +102,14 @@
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Manas2306?theme=dark&font=Karma&ext=contest,heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/Manas2306?theme=dark&font=Karma&animation=true&ext=heatmap"/>
 </p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Manas2306?theme=dark&font=Karma&animation=true&ext=contest"/>
+</p>
+
+> 🔥 Animation is on by default here — the numbers count up on load, and the heatmap/contest cards refresh live from your real LeetCode profile each time someone visits.
 
 ---
 
