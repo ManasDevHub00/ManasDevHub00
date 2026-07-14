@@ -1,40 +1,40 @@
- <!-- Banner -->
+ <!-- ========================= BANNER ========================= -->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Manas%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Manas%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- ========================= TYPING ========================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Manas+Sharma;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Manas+Sharma;Java+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Learner;Data+Structures+%26+Algorithms;AI+Agent+Developer;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ManasDevHub00">
-    <img src="https://komarev.com/ghpvc/?username=ManasDevHub00&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  </a>
 
-  <img src="https://img.shields.io/github/followers/ManasDevHub00?style=for-the-badge&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=ManasDevHub00&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-  <img src="https://img.shields.io/github/stars/ManasDevHub00?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ManasDevHub00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/ManasDevHub00?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 🎓 B.Tech Computer Science Engineering Student
 
-💻 Passionate about **Java Development**
+💻 Learning **Java & Data Structures**
 
-📚 Learning **Data Structures & Algorithms**
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
-🤖 Interested in **Artificial Intelligence & Machine Learning**
+🌱 Exploring **AI Agents**
 
-🧠 Exploring **AI Agents & NLP**
-
-🌱 Currently improving problem-solving skills every day
+📚 Solving DSA problems daily
 
 📍 India 🇮🇳
 
@@ -51,11 +51,11 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,jupyter,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,jupyter,mysql,html,css,tensorflow"/>
 
 </p>
 
@@ -79,7 +79,7 @@
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -89,43 +89,13 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 💻 LeetCode Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManasDevHub00&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://leetcard.jacoblin.cool/Manas2306?theme=dark&font=Karma&ext=contest,heatmap"/>
 
 </p>
-
----
-
-# 📋 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManasDevHub00&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 My Interests
-
-### ☕ Java
-
-- Object-Oriented Programming
-- Collections Framework
-- DSA
-- Competitive Programming
-
-### 🤖 Machine Learning
-
-- Data Preprocessing
-- TF-IDF
-- NLP
-- SVM
-- Random Forest
-- Model Evaluation
 
 ---
 
@@ -149,17 +119,7 @@
 
 ---
 
-# 📈 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Manas2306?theme=dark&font=Karma&ext=contest"/>
-
-</p>
-
----
-
-# 📬 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -185,12 +145,14 @@
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."* 🚀
+### 🚀 Code • Learn • Build • Repeat
 
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
+
 </p>
